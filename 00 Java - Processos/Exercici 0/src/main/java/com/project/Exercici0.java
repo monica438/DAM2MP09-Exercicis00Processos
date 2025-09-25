@@ -3,7 +3,7 @@ package com.project;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-public class Main {
+public class Exercici0 {
     public static void main(String[] args) {
 
         // Crear un executor amb un pool de 2 fils

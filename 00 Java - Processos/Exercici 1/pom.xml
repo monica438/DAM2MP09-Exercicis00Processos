@@ -47,7 +47,7 @@
                         <version>1.6.0</version>
                         <configuration>
                             <!-- Especifica aquí el nom complet de la classe principal -->
-                            <mainClass>com.project.Main</mainClass>
+                            <mainClass>com.project.Exercici1</mainClass>
                         </configuration>
                     </plugin>
                 </plugins>
